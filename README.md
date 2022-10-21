@@ -64,6 +64,24 @@ https://user-images.githubusercontent.com/71786791/197092513-ef0e4ded-ab6c-436a-
 <!-- step 1 - step 15 vid  -->
 https://user-images.githubusercontent.com/71786791/197092876-afae558b-ce7e-4978-a4b6-296a7b729ec7.mov
 
+<!-- step 2 - step 0 vid  -->
+https://user-images.githubusercontent.com/71786791/197252406-cbf84dbe-3637-4630-81ad-35fb34ec767f.mov
+
+<!-- step 2 - step 1 vid  -->
+https://user-images.githubusercontent.com/71786791/197255231-47e6ffe9-d968-42af-b30a-63f18a871b0d.mov
+
+<!-- step 2 - step 2 vid  -->
+https://user-images.githubusercontent.com/71786791/197272270-5d1abe32-d23b-4551-b3e9-7c99031aee5c.mov
+
+<!-- step 2 - step 3 vid  -->
+https://user-images.githubusercontent.com/71786791/197273729-56eb137a-9e38-4331-8dc8-0800bfc347f5.mov
+
+<!-- step 2 - step 4 vid  -->
+https://user-images.githubusercontent.com/71786791/197274484-c122fafd-6ea7-4b25-b20e-20747cdeca8a.mov
+
+<!-- step 2 - step 5 vid  -->
+(No video - i already included a screenshot)
+
 
 
 
