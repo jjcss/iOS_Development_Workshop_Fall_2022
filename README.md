@@ -31,6 +31,39 @@ https://user-images.githubusercontent.com/71786791/197085237-a34861ad-f6d3-4d22-
 <!-- step 1 - step 4 vid  -->
 https://user-images.githubusercontent.com/71786791/197085987-d79f5f2f-1237-4df9-b805-d84306db05db.mov
 
+<!-- step 1 - step 5 vid  -->
+https://user-images.githubusercontent.com/71786791/197086696-4c397ade-362e-43c3-9363-10fc30e59459.mov
+
+<!-- step 1 - step 6 vid  -->
+https://user-images.githubusercontent.com/71786791/197087147-9ade1b77-f011-4933-8f14-a119cf2c974e.mov
+
+<!-- step 1 - step 7 vid  -->
+https://user-images.githubusercontent.com/71786791/197087771-54e192ac-8b60-410a-b7a1-0a7b6af68d62.mov
+
+<!-- step 1 - step 8 vid  -->
+https://user-images.githubusercontent.com/71786791/197088209-07ac3f25-a429-4393-bf51-d1390d9b5203.mov
+
+<!-- step 1 - step 9 vid  -->
+https://user-images.githubusercontent.com/71786791/197088593-75f3c70c-595d-4630-81f3-9ea186ab7b7a.mov
+
+<!-- step 1 - step 10 vid  -->
+https://user-images.githubusercontent.com/71786791/197089139-59525928-be63-4475-a81a-9e6d619a742e.mov
+
+<!-- step 1 - step 11 vid  -->
+https://user-images.githubusercontent.com/71786791/197090064-ed64996a-de16-4e35-99df-1f38d43bc7c2.mov
+
+<!-- step 1 - step 12 vid  -->
+https://user-images.githubusercontent.com/71786791/197090740-d4213ed1-4ff3-470d-9734-839c01a74a18.mov
+
+<!-- step 1 - step 13 vid  -->
+https://user-images.githubusercontent.com/71786791/197091283-f0d0dcae-4cee-46c8-8099-f69033e5f45e.mov
+
+<!-- step 1 - step 14 vid  -->
+https://user-images.githubusercontent.com/71786791/197092513-ef0e4ded-ab6c-436a-9c05-2acda791edac.mov
+
+<!-- step 1 - step 15 vid  -->
+https://user-images.githubusercontent.com/71786791/197092876-afae558b-ce7e-4978-a4b6-296a7b729ec7.mov
+
 
 
 
