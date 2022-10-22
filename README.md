@@ -100,5 +100,11 @@ https://user-images.githubusercontent.com/71786791/197349860-8776edf2-07c7-4dd6-
 <!-- step 4 - step 6 vid  -->
 https://user-images.githubusercontent.com/71786791/197350378-70d61a89-1fa8-4c96-ab05-33358c9c1e25.mov
 
+<!-- step 5 - step 3 vid  -->
+https://user-images.githubusercontent.com/71786791/197358371-036f718b-5e7b-4561-a732-0a15b9f513e4.mov
+
+<!-- step 5 - step 5 vid  -->
+https://user-images.githubusercontent.com/71786791/197358446-19614e8b-a7b4-4d14-b35a-a6458cd40307.mov
+
 
 
