@@ -218,7 +218,7 @@ https://user-images.githubusercontent.com/71786791/197360694-6f173000-3cef-4632-
 **Description**: In this step, we will be adding the tip calculation logic inside of our `calculateTip` component in our `View Controller Swift` file. Once you add in this code, feel free to run your Xcode simulator, located at the top left corner (looks like a triangle). After your simulator is done running, you should be able to enter in a bill amount, click on a tip percentage, and watch the magic happen. You're done!!
 <details>
         <summary>Image of code</summary>
-        <img src="https://i.imgur.com/P73j0OQ.png" alt="drawing" width="300" height="200"/>
+        <img src="https://i.imgur.com/P73j0OQ.png" alt="drawing" width="500" height="400"/>
         </details> 
 
 ## Step 4 - Adding Launch Screen
