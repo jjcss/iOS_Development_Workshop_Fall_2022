@@ -15,7 +15,7 @@
 
 **Date:** Tuesday, October 25th, 2022 <br>
 **Description**: In this workshop we will be building a simple "Tip Calculator" application using Apple's Swift programming language in Xcode and Apple's **UIkit** framework. For more information on iOS Development and other resources talked about during the meeting please continue looking below for all resources and **coding demo** steps. <br>
-**Workshop Zoom Recording**: TBD <br>
+**Workshop Zoom Recording**: [Click here](https://jjay-cuny.zoom.us/rec/share/w_WX2fAcJoPI4-4dhcHLG_y_hPCXmjX7NBequkk0QoH06S34hx0b5QGo7FbupUc2.wPWYQlzWqFX792Z-) <br>
 **Workshop Google Slides**: [Click here](https://docs.google.com/presentation/d/1viKLdLpINEwy6IiY2uzX_hjU2UOL8sxf_YBFfxtV2xw/edit?usp=sharing) <br>
 
 ---
